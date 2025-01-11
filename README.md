@@ -1,7 +1,6 @@
-# myapp
+# primeiro-programa
 
-A new Flutter project.
-
+Sistema desenvolvido como atividade vínculada ao módulo 2 do curso Desenvolvimento WEB.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
